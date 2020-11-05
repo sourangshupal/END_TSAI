@@ -5,7 +5,7 @@
 #### Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000 PTS:100
 
 
-####Using list comprehension (and zip/lambda/etc if required) write five different expressions that: PTS:100
+#### Using list comprehension (and zip/lambda/etc if required) write five different expressions that: PTS:100
 - add 2 iterables a and b such that a is even and b is odd
 - strips every vowel from a string provided (tsai>>t s)
 - acts like a ReLU function for a 1D array
@@ -19,7 +19,13 @@
 - add only even numbers in a list
 - find the biggest character in a string (printable ascii characters)
 - adds every 3rd number in a list
-- Using randint, random.choice and list comprehensions, write an expression that generates 15 random KADDAADDDD number plates, where KA is fixed, D stands for a - -- digit, and A stands for Capital alphabets. 10<<DD<<99 & 1000<<DDDD<<9999 PTS:100
-- Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided.  PTS:100
 
-The attached Jupyter notebook contains the solutions of the assignments. 
+
+#### Using randint, random.choice and list comprehensions, write an expression that generates 15 random KADDAADDDD number plates, where KA is fixed, D stands for a digit, and A stands for Capital alphabets. 10<<DD<<99 & 1000<<DDDD<<9999 PTS:100
+
+
+#### Write the above again from scratch where KA can be changed to DL, and 1000/9999 ranges can be provided.  PTS:100
+
+## Solutions
+
+#### The attached Jupyter notebook END_Assignment_3.ipynb contains the solutions of the assignments. 
